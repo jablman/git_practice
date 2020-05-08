@@ -1,0 +1,39 @@
+body {
+    background-color: white;
+    font-family: Roboto, sans-serif;
+}
+
+h1 {
+    text-align: center;
+    font-family: Montserrat, sans-serif;
+}
+
+h2 {
+    text-align: center;
+    color: #ffc300;
+    font-weight: bold;
+}
+
+table {
+    border: 2px solid #ffc300;
+    width: 900px;
+    margin: 0 auto;
+}
+
+thead {
+    background-color: #d3d3d3;
+}
+
+td {
+    border-top: 1px solid #ffc300;
+    text-align: center;
+}
+
+#content {
+    text-align: left;
+}
+
+code {
+    background-color: #f5f5dc;
+}
+
